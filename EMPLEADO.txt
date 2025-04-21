@@ -1,0 +1,5 @@
+1,0,-,-,-,Si,jorge cardenas,0,31/07/2004,998278175,yqeuni@gmail.com,LIMA-PERU,villa el salvador
+2,1,75947729,-,-,Si,jorge cardenas,0,31/07/2004,998278175,yqeuni@gmail.com,LIMA-PERU,villa el salvador
+3,2,-,PRUX74,-,Si,jorge cardenas,0,31/07/2004,998278175,yqeuni@gmail.com,LIMA-PERU,villa el salvador
+4,2,-,-,TRU8X,No,jorge cardenas,0,31/07/2004,998278175,yqeuni@gmail.com,LIMA-PERU,villa el salvador
+5,1,20765074,-,-,Si,Francisco Aguirre,0,31/10/1993,958653010,francisco@gmail.com,LIMA-PERU,San Borja

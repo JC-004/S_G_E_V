@@ -1,0 +1,6 @@
+1,0,-,-,-,Si,gabriel garcia,0,HY87X,994004083,jorge.cardenas.o@uni.pe,LIMA-PERU,villa el salvador
+2,1,20906943,-,-,Si,gabriel garcia,0,HY87X,994004083,jorge.cardenas.o@uni.pe,LIMA-PERU,villa el salvador
+3,2,-,HI7DX,-,Si,gabriel garcia,0,HY87X,994004083,jorge.cardenas.o@uni.pe,LIMA-PERU,villa el salvador
+4,2,-,-,TRU887P,No,gabriel garcia,0,HY87X,994004083,jorge.cardenas.o@uni.pe,LIMA-PERU,villa el salvador
+5,1,20901080,-,-,Si,ariana zegarra,0,UFEXX8,918173857,docFIIS@hotmail.com,LIMA-PERU,Surco
+6,1,70326590,-,-,Si,miguel hernandez,0,PER32T,990764890,miguelh@hotmail.com,LIMA-PERU,San Isidro
